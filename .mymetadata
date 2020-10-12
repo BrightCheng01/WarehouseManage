@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WarehouseManage"
+  id="myeclipse.1573615900996"
+  context-root="/WarehouseManage"
+  j2ee-spec="6.0"
+  archive="WarehouseManage.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
